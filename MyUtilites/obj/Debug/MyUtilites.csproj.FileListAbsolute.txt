@@ -1,0 +1,10 @@
+E:\Mini programs GB\MyUtilites\bin\Debug\MyUtilites.exe.config
+E:\Mini programs GB\MyUtilites\bin\Debug\MyUtilites.exe
+E:\Mini programs GB\MyUtilites\bin\Debug\MyUtilites.pdb
+E:\Mini programs GB\MyUtilites\obj\Debug\MyUtilites.csproj.AssemblyReference.cache
+E:\Mini programs GB\MyUtilites\obj\Debug\MyUtilites.MainForm.resources
+E:\Mini programs GB\MyUtilites\obj\Debug\MyUtilites.Properties.Resources.resources
+E:\Mini programs GB\MyUtilites\obj\Debug\MyUtilites.csproj.GenerateResource.cache
+E:\Mini programs GB\MyUtilites\obj\Debug\MyUtilites.csproj.CoreCompileInputs.cache
+E:\Mini programs GB\MyUtilites\obj\Debug\MyUtilites.exe
+E:\Mini programs GB\MyUtilites\obj\Debug\MyUtilites.pdb
